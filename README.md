@@ -8,7 +8,6 @@ This project was made to aid in being able to keep notes and plans organized. Us
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -24,9 +23,6 @@ This project is licensed under the [MIT](LICENSE) License.
 
 ## Contributing
 I am the sole contributor in this project and have no interest in collaborating to expand on this project at this time.
-
-## Tests
-undefined
 
 ## Questions
 If anyone has any questions about this project they can contact me by email.
